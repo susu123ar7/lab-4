@@ -1,0 +1,9 @@
+{
+    "name": "group7/lab4",
+    "autoload": {
+        "psr-4": {
+            "Group7\\Lab4\\": "src/"
+        }
+    },
+    "require": {}
+}
