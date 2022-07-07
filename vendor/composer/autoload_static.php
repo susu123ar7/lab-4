@@ -11,12 +11,20 @@ class ComposerStaticInit504b3ba59d9166f0a97608f491fdce86
         array (
             'Group7\\Lab4\\' => 12,
         ),
+        'E' => 
+        array (
+            'Envms\\FluentPDO\\' => 16,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'Group7\\Lab4\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'Envms\\FluentPDO\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/envms/fluentpdo/src',
         ),
     );
 

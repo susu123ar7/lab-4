@@ -5,5 +5,7 @@
             "Group7\\Lab4\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "envms/fluentpdo": "^2.2"
+    }
 }
